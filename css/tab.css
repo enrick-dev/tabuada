@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font-family: "Open sans";
+}
+body {
+    background-color: #1a738a;
+    font-size: 16px;
+}
+h1 {
+    color: #FFA700;
+    font-size: 20px;
+}
+.container {
+    background-color: #FFF;
+    border:1px solid #CCC;
+    max-width: 300px;
+	margin: 0 auto;
+    margin-top: 15%;
+    padding: 20px;
+    
+}
+#form_tab1 label {
+    color: #1a738a;
+    font-weight: bold;
+}
+#caixa {
+    padding-inline-start: 10px;
+    margin: 5px;
+    color: #777;
+}
+#submit {
+    background: #1a738a;
+    color: #FFF;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+}
